@@ -1,0 +1,17 @@
+{
+  "name": "abc_js",
+  "homepage": "https://github.com/wellnoidea/abc_js",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
