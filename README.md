@@ -1,2 +1,2 @@
 # abc_js
-absolute basics compendium for JavaScript
+Playing around with git...
